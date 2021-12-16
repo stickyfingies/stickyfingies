@@ -1,5 +1,5 @@
 <style>
-h1:hover{ -webkit-transform: scale(1.2); }
+h1:hover -webkit-transform: scale(1.2);
 </style>
 
 <h1 align="center" onclick="alert('hey!')">Hi, I'm Seth</h1>
