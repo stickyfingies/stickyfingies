@@ -1,4 +1,4 @@
-<div align="center"><img align="center" width="512" src="/internet-wizard.png" /></div>
+<div align="center"><img align="center" width="384" src="/internet-wizard.png" /></div>
 
 <h1 align="center">Welcome to Seth's profile.</h1>
 
