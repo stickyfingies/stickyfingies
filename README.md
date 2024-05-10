@@ -10,7 +10,7 @@
   <tr>
     <td>
       <br/>
-      <p>Sharing is caring! I have both <a href="https://dev.to/stickyfingies/">a blog</a> and a <a href="https://software.graphics">a reading list</a>.</p>
+      <p>Check out <a href="https://dev.to/stickyfingies/">my blog</a> and <a href="https://software.graphics">reading list</a> for more!</p>
       <ul>
         <li><a href="https://dev.to/stickyfingies/my-struggle-learning-set-theory-as-a-programmer-23di">My Struggle Learning Set Theory as a Programmer</a></li>
         <li><a href="https://dev.to/stickyfingies/devops-my-faulty-perspective-3p2n">DevOps: my faulty perspective</a></li>
