@@ -10,9 +10,9 @@
   <tr>
     <td>
       <ul>
-        <li><a href="https://dev.to/stickyfingies/my-struggle-learning-set-theory-as-a-programmer-23di">My Struggle Learning Set Theory as a Programmer</a></li>
+        <li><a href="https://dev.to/stickyfingies/my-struggle-learning-set-theory-as-a-programmer-23di">Learning Set Theory as a Programmer</a></li>
         <li><a href="https://dev.to/stickyfingies/devops-my-faulty-perspective-3p2n">DevOps: my faulty perspective</a></li>
-        <li><a href="https://dev.to/stickyfingies/kaas-a-novel-mental-model-for-developers-595e">Karma as a System - modeling cognition with software</a></li>
+        <li><a href="https://dev.to/stickyfingies/kaas-a-novel-mental-model-for-developers-595e">Karma as a System - nature as code</a></li>
       </ul>
       <p>Check out <a href="https://dev.to/stickyfingies/">my blog</a> and <a href="https://software.graphics">reading list</a> for more!</p>
     </td>
